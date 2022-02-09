@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Obsidia-n
+- Im currently learning Lua, and Roblox Lua.
